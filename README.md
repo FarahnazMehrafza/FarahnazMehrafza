@@ -1,3 +1,5 @@
+![GitHub Logo]([image_url](https://github.com/FarahnazMehrafza/FarahnazMehrafza/blob/main/github-header-image%20(6).png?raw=true))
+
 <h1 align="center">Hi 👋, I am Farahnaz Mehrafza</h1>
 <h3 align="center">A passionate Full Stack Developer who is a tech lover and love to make an idea into real. Leveraging expertise in Frontend Software Development participated in product development for Banking and health Applications.</h3>
 
