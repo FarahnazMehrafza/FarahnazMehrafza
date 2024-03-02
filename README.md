@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I am Farahnaz Mehrafza</h1>
+<h1 align="center">Hi![github-header-image (6)](https://github.com/FarahnazMehrafza/FarahnazMehrafza/assets/161342559/aaaea18b-aaca-4903-a2f3-5db457f26c2c)
+ 👋, I am Farahnaz Mehrafza</h1>
 <h3 align="center">A passionate Full Stack Developer who is a tech lover and love to make an idea into real. Leveraging expertise in Frontend Software Development participated in product development for Banking and health Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farahnazmehrafza&label=Profile%20views&color=0e75b6&style=flat" alt="farahnazmehrafza" /> </p>
